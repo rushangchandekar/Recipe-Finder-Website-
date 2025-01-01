@@ -2,6 +2,9 @@
 
 A simple and intuitive web app built with HTML, CSS, and JavaScript that helps users discover new recipes. By utilizing the **MealDB API**, the website allows users to search for recipes based on ingredients, categories, or meal types.
 
+## Link to visit Website 
+https://rushangchandekar.github.io/Recipe-Finder-Website-/
+
 ## Features
 
 - **Search Recipes:** Find recipes by ingredients, meal type (e.g., breakfast, lunch, dinner), or category (e.g., vegetarian, dessert).
